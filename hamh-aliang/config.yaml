@@ -1,11 +1,11 @@
 version: "latest"
 image: aliangbaby/home-assistant-matter-hub
 slug: hamh-beta
-name: Home-Assistant-Matter-Hub (Beta)
+name: Home-Assistant-Matter-Hub (Aliang)
 description: Beta Releases of Home Assistant Matter Hub
 url: https://github.com/Aliang-code/home-assistant-matter-hub
 panel_icon: mdi:hub
-panel_title: Matter Hub (Beta)
+panel_title: Matter Hub (Aliang)
 homeassistant: 2024.1.0
 homeassistant_api: true
 host_network: true
