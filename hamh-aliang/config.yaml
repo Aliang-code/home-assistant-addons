@@ -1,6 +1,6 @@
 version: "latest"
 image: aliangbaby/home-assistant-matter-hub
-slug: hamh-beta
+slug: hamh-aliang
 name: Home-Assistant-Matter-Hub (Aliang)
 description: Beta Releases of Home Assistant Matter Hub
 url: https://github.com/Aliang-code/home-assistant-matter-hub
